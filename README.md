@@ -9,7 +9,7 @@ These work is in progress, please be patient :) Don't hesitate to contribute / c
 
 This talk is the first from a new serie.
 
-[[Slides](https://github.com/FrenchYeti/unrasp/blob/main/Slides/Forging_golden_hammer_against_android_app_protections_INSO22_FINAL.pdf)]
+[[Slides](https://github.com/FrenchYeti/rasputin/blob/main/Slides/Forging_golden_hammer_against_android_app_protections_INSO22_FINAL.pdf)]
 [[Abstract (Insomni'hack website)](https://insomnihack.ch/talks-2022/#MUX7KC)]
 
 ## Yara rules / RASP profiling
